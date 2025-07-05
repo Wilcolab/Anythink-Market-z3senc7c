@@ -27,7 +27,7 @@ To run both servers using Docker, follow these steps:
 
   This command builds the Docker images and starts the containers defined in `docker-compose.yml`.
 
-- The FastAPI server will be available at port `8000`, and the Express server at port `3000`.
+- The FastAPI server will be available at port `8000`, and the Express server at port `8001`.
 
 ## API Routes
 
